@@ -5,7 +5,7 @@ import load_json_variable as variable
 prefix = "!"
 bot = commands.Bot(command_prefix=prefix,intents=discord.Intents.all())
 
-discord_token = "MTA4NTM0MjMwNDgyODY2NTg4Ng.GZxSr3.N6rL5NKUaerSCvyXVPJcfkfZ42WRRlXKBrZ_eY" # 추후에 꼭 숨길것
+discord_token = "" # 추후에 꼭 숨길것
 
 
 @bot.event
